@@ -17,7 +17,7 @@ pip install neuralprophet yfinance pandas matplotlib
 
 <h2>Project Screenshots</h2>
 
-(image1.png)
+!(https://github.com/aditya1492025/Stock-Price-Predictor/blob/main/image1.png)
 
 (image2.png)
 
