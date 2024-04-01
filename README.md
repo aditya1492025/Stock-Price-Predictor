@@ -17,11 +17,11 @@ pip install neuralprophet yfinance pandas matplotlib
 
 <h2>Project Screenshots</h2>
 
-!(https://github.com/aditya1492025/Stock-Price-Predictor/blob/main/image1.png)
+![image1](https://github.com/aditya1492025/Stock-Price-Predictor/assets/132381814/ae3201e3-26a6-4e65-aad3-86e7dff88fe7)
 
-(image2.png)
+![image2](https://github.com/aditya1492025/Stock-Price-Predictor/assets/132381814/748bad46-c768-4d76-938b-c25ba8650bdb)
 
-(image3.png)
+![image3](https://github.com/aditya1492025/Stock-Price-Predictor/assets/132381814/c7ecc605-fe70-4ebe-9bf7-76b7a5eef1bf)
 
   
   
